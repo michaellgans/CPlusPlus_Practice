@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/michaellgans/CSharp_Practice/NumbersInCSharp.csproj",
+      "projectUniqueName": "/home/michaellgans/CSharp_Practice/Michael/numbers-quickstart/NumbersInCSharp.csproj",
       "projectName": "NumbersInCSharp",
-      "projectPath": "/home/michaellgans/CSharp_Practice/NumbersInCSharp.csproj",
+      "projectPath": "/home/michaellgans/CSharp_Practice/Michael/numbers-quickstart/NumbersInCSharp.csproj",
       "packagesPath": "/home/michaellgans/.nuget/packages/",
-      "outputPath": "/home/michaellgans/CSharp_Practice/obj/",
+      "outputPath": "/home/michaellgans/CSharp_Practice/Michael/numbers-quickstart/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/michaellgans/.nuget/NuGet/NuGet.Config"

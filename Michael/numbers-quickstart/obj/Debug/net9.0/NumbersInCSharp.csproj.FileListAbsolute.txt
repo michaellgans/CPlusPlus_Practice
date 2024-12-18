@@ -1,0 +1,15 @@
+/home/michaellgans/CSharp_Practice/Michael/numbers-quickstart/bin/Debug/net9.0/NumbersInCSharp
+/home/michaellgans/CSharp_Practice/Michael/numbers-quickstart/bin/Debug/net9.0/NumbersInCSharp.deps.json
+/home/michaellgans/CSharp_Practice/Michael/numbers-quickstart/bin/Debug/net9.0/NumbersInCSharp.runtimeconfig.json
+/home/michaellgans/CSharp_Practice/Michael/numbers-quickstart/bin/Debug/net9.0/NumbersInCSharp.dll
+/home/michaellgans/CSharp_Practice/Michael/numbers-quickstart/bin/Debug/net9.0/NumbersInCSharp.pdb
+/home/michaellgans/CSharp_Practice/Michael/numbers-quickstart/obj/Debug/net9.0/NumbersInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/michaellgans/CSharp_Practice/Michael/numbers-quickstart/obj/Debug/net9.0/NumbersInCSharp.AssemblyInfoInputs.cache
+/home/michaellgans/CSharp_Practice/Michael/numbers-quickstart/obj/Debug/net9.0/NumbersInCSharp.AssemblyInfo.cs
+/home/michaellgans/CSharp_Practice/Michael/numbers-quickstart/obj/Debug/net9.0/NumbersInCSharp.csproj.CoreCompileInputs.cache
+/home/michaellgans/CSharp_Practice/Michael/numbers-quickstart/obj/Debug/net9.0/NumbersInCSharp.sourcelink.json
+/home/michaellgans/CSharp_Practice/Michael/numbers-quickstart/obj/Debug/net9.0/NumbersInCSharp.dll
+/home/michaellgans/CSharp_Practice/Michael/numbers-quickstart/obj/Debug/net9.0/refint/NumbersInCSharp.dll
+/home/michaellgans/CSharp_Practice/Michael/numbers-quickstart/obj/Debug/net9.0/NumbersInCSharp.pdb
+/home/michaellgans/CSharp_Practice/Michael/numbers-quickstart/obj/Debug/net9.0/NumbersInCSharp.genruntimeconfig.cache
+/home/michaellgans/CSharp_Practice/Michael/numbers-quickstart/obj/Debug/net9.0/ref/NumbersInCSharp.dll
